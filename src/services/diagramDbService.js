@@ -1,4 +1,4 @@
-// src/services/diagramService.js
+// src/services/diagramDbService.js
 import db from '../utils/db';
 
 export const saveDiagram = async (name, data) => {
