@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# ./erd-frontend/nodesource_setup.sh
+
 # Logger Function
 log() {
   local message="$1"
